@@ -8,12 +8,12 @@
 ### Likes
 - blah.... 
 - blah...
-- 
+
 
 ### Dislikes
 - blah...
 - blah...
--
+
 
 ## Back of house 
 
@@ -23,11 +23,10 @@
 ### Likes
 - blah.... 
 - blah...
-- 
+
 
 ### Dislikes
 - blah...
 - blah...
--
 
 
