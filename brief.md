@@ -1,10 +1,10 @@
 
 # Brief
-- [Home](brief.md)
-- [Front of House](front.md)
-- [Back of House](back.md)
-- [Driveway](driveway.md)
-- [Back Garden](garden)
+[Home](brief.md)
+[Front of House](front.md)
+[Back of House](back.md)
+[Driveway](driveway.md)
+[Back Garden](garden)
 
 ##  Site Details
 Google Maps Location
