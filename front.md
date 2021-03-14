@@ -9,14 +9,42 @@
 # Front of house 
 
 ## Example 1
-![House 1](images/house_example.jpeg "House 1")
+![House 1](images/front/1.jpeg "House 1")
 
 ### Likes
-- blah.... 
-- blah...
-
+- 2 triangles
+- long window on right hand side triangle
 
 ### Dislikes
 - blah...
-- blah...
 
+## Example 2
+![House 2](images/front/2.jpeg "House 2")
+
+### Likes
+- Stonework feature 
+- long window
+
+### Dislikes
+
+
+## Example 3
+![House 3](images/front/3.jpeg "House 3")
+
+### Likes
+- Shape of doorframe
+- glass panels around the door
+
+### Dislikes
+- 
+
+## Example 4
+![House 4](images/front/4.jpeg "House 4")
+
+### Likes
+- Glass panels around the door
+- Stone feature
+- long window at front
+
+### Dislikes
+- 
