@@ -9,15 +9,14 @@
 # Back of house 
 
 ## Example 1
-![House 1](images/house_example_2.jpeg "House 1")
+![House 1](images/back/1.jpeg "")
 
 ### Likes
-- blah.... 
-- blah...
+- slider doors opening onto patio
 
+## Example 3
+![House 3](images/back/3.jpeg "")
 
-### Dislikes
-- blah...
-- blah...
-
-
+### Likes
+- double height glass
+- doors opening onto large patio
