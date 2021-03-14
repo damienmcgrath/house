@@ -15,9 +15,6 @@
 - 2 triangles
 - long window on right hand side triangle
 
-### Dislikes
-- blah...
-
 ## Example 2
 ![House 2](images/front/2.jpeg "House 2")
 
@@ -25,18 +22,12 @@
 - Stonework feature 
 - long window
 
-### Dislikes
-
-
 ## Example 3
 ![House 3](images/front/3.jpeg "House 3")
 
 ### Likes
 - Shape of doorframe
 - glass panels around the door
-
-### Dislikes
-- 
 
 ## Example 4
 ![House 4](images/front/4.jpeg "House 4")
@@ -46,5 +37,3 @@
 - Stone feature
 - long window at front
 
-### Dislikes
-- 
