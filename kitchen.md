@@ -4,7 +4,8 @@
 [Front of House](front.md) <br/>
 [Back of House](back.md) <br/>
 [Driveway](driveway.md) <br/>
-[Back Garden](garden) <br/>
+[Back Garden](garden.md) <br/>
+[Kitchen](kitchen.md) <br/>
 
 # Kitchen / Living Space
 

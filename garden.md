@@ -5,6 +5,7 @@
 [Back of House](back.md) <br/>
 [Driveway](driveway.md) <br/>
 [Back Garden](garden.md) <br/>
+[Kitchen](kitchen.md) <br/>
 
 # Back Garden
 
