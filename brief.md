@@ -13,3 +13,21 @@
 
 ## Site Map
 ![House 1](images/sitemap.jpg "House 1")
+
+
+# Dwelling design
+
+## Ground floor:
+- Kitchen/Dining/Family space to sunny aspect
+- separate Playroom (future bedroom)
+- snug sitting room
+- Utility/Heating/Storage/Toilet etc. Scope TBA
+
+## First Floor:
+- 3-4 Bedrooms (min 1 en-suite) 
+- Main bathroom
+- Linen/storage. Scope TBA
+
+## Additional:
+- Utilise attic space for storage, potential bedroom etc
+- Home office/study to rear garden. Scope TBA
