@@ -49,7 +49,13 @@
 - window seat
 
 ## Example 7
-![House 1](images/kitchen/7.jpeg "7")
+![House 1](images/kitchen/9.jpeg "7")
+
+### What we like:
+- layout of open space
+
+## Example 8
+![House 1](images/kitchen/8.jpeg "7")
 
 ### What we like:
 - layout of open space

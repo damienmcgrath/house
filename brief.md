@@ -15,7 +15,8 @@
 - Kitchen/Dining/Family space to sunny aspect
 - Separate Playroom (future bedroom)
 - Snug sitting room
-- Utility/Heating/Storage/Toilet etc. Scope TBA
+- Utility/Heating/Storage
+- Toilet
 
 ## First Floor:
 - 4 Bedrooms (min 1 en-suite) 
