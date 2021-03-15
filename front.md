@@ -11,6 +11,10 @@
 
 # Front of house 
 
+# Notes
+- We love the idea of a tall window
+- Some sort of stone feature 
+
 ## Example 1
 ![House 5](images/front/5.png "House 5")
 
@@ -39,6 +43,7 @@
 - Stonework feature 
 - Shape of doorframe
 - glass panels around the door
+- we love this style of hall door but not sure if it will fit in with the overall style of house (do these doors only work with older style houses?) 
 
 ## Example 5
 ![House 4](images/front/4.jpeg "House 4")

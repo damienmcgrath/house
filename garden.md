@@ -11,7 +11,7 @@
 
 # Back Garden
 
-## Requirements
+## Notes
 We spend a lot of time cooking outdoors on our BBQ (all year round) so having a BBQ area easily accessible from the house is important for us. Having it sheltered from the rain would be a bonus, but not essential. 
 
 We go kayaking most weekends during the summer so having enough space to comfortably transport the kayaks + gear down the side of the house ot store out the back is important. 

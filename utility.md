@@ -11,7 +11,7 @@
 
 # Utility
 
-## Requirements
+## Notes
 - External door out to side/rear of house
 - Washer, Drier, Sink
 - Lots of storage space
