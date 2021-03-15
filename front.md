@@ -11,7 +11,7 @@
 
 # Front of house 
 
-# Notes
+## Notes
 - We love the idea of a tall window
 - Some sort of stone feature 
 

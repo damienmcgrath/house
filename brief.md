@@ -19,9 +19,10 @@
 - Toilet
 
 ## First Floor:
-- 4 Bedrooms (min 1 en-suite) 
-- Main bathroom
-- Linen/storage. Scope TBA
+* 4 Bedrooms
+* Master bedroom (en-suite + walk-in wardrobe)
+* Main bathroom
+* Linen/storage. Scope TBA
 
 ## Additional:
 - Utilise attic space for storage, potential bedroom etc
