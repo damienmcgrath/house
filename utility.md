@@ -28,6 +28,6 @@
 
 ### What we like:
 - external door
-- counter top space + sink
+- counter-top space + sink
 - storage space
 

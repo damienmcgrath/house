@@ -23,3 +23,9 @@
 ### What we like:
 - double height glass
 - doors opening onto large patio
+
+## Example 3
+![House 2](images/back/4.jpeg "2")
+
+### What we like:
+- slider doors out on to patio

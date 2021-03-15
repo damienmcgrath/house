@@ -41,3 +41,15 @@
 
 ### What we like:
 - Corner glass doors
+
+## Example 6
+![House 1](images/kitchen/6.jpeg "6")
+
+### What we like:
+- window seat
+
+## Example 7
+![House 1](images/kitchen/7.jpeg "7")
+
+### What we like:
+- layout of open space

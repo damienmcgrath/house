@@ -36,6 +36,7 @@
 ![House 3](images/front/3.jpeg "House 3")
 
 ### What we like:
+- Stonework feature 
 - Shape of doorframe
 - glass panels around the door
 
