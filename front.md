@@ -6,6 +6,8 @@
 [Driveway](driveway.md) <br/>
 [Back Garden](garden.md) <br/>
 [Kitchen](kitchen.md) <br/>
+[Office](office.md) <br/>
+[Utility](utility.md) <br/>
 
 # Front of house 
 

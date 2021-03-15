@@ -6,17 +6,19 @@
 [Driveway](driveway.md) <br/>
 [Back Garden](garden.md) <br/>
 [Kitchen](kitchen.md) <br/>
+[Office](office.md) <br/>
+[Utility](utility.md) <br/>
 
 # High Level Dwelling design
 
 ## Ground floor:
 - Kitchen/Dining/Family space to sunny aspect
-- separate Playroom (future bedroom)
-- snug sitting room
+- Separate Playroom (future bedroom)
+- Snug sitting room
 - Utility/Heating/Storage/Toilet etc. Scope TBA
 
 ## First Floor:
-- 3-4 Bedrooms (min 1 en-suite) 
+- 4 Bedrooms (min 1 en-suite) 
 - Main bathroom
 - Linen/storage. Scope TBA
 

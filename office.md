@@ -7,6 +7,7 @@
 [Back Garden](garden.md) <br/>
 [Kitchen](kitchen.md) <br/>
 [Office](office.md) <br/>
+[Utility](utility.md) <br/>
 
 # Office
 
@@ -22,7 +23,7 @@
 
 ### What we like:
 - mix of indoor/outdoor space
-- covered outdorr seating area
+- covered outdoor seating area
 - outdoor fire
 
 ## Example 3
@@ -30,7 +31,7 @@
 
 ### What we like:
 - mix of indoor/outdoor space
-- covered outdorr seating area
+- covered outdoor seating area
 - outdoor fire
 
 
@@ -39,6 +40,14 @@
 
 ### What we like:
 - mix of indoor/outdoor space
-- covered outdo0r seating area
+- covered outdoor seating area
+- color/finish
+
+## Example 5
+![House 4](images/office/6.jpeg "5")
+
+### What we like:
+- mix of indoor/outdoor space
+- covered outdoor seating area
 - color/finish
 
