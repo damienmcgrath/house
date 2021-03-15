@@ -1,6 +1,6 @@
 
 # Brief
-[Home](/) <br/>
+[Home](/house/) <br/>
 [Front of House](front.md) <br/>
 [Back of House](back.md) <br/>
 [Driveway](driveway.md) <br/>
