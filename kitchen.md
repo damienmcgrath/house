@@ -12,30 +12,30 @@
 ## Example 1
 ![House 1](images/kitchen/1.jpeg "1")
 
-### Likes
+### What we like:
 - TV / Sitting room area
 
 ## Example 2
 ![House 1](images/kitchen/2.jpeg "2")
 
-### Likes
+### What we like:
 - TV / Sitting room area
 
 ## Example 3
 ![House 1](images/kitchen/3.jpeg "3")
 
-### Likes
+### What we like:
 - Open space
 - Sliding doors opening onto patio/garden
 
 ## Example 4
 ![House 1](images/kitchen/4.jpeg "4")
 
-### Likes
+### What we like:
 - Slider doors
 
 ## Example 5
 ![House 1](images/kitchen/5.jpeg "5")
 
-### Likes
+### What we like:
 - Corner glass doors

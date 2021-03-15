@@ -10,37 +10,37 @@
 # Front of house 
 
 ## Example 1
+![House 5](images/front/5.png "House 5")
+
+### What we like:
+- Glass window above hall door + overhang
+
+
+## Example 2
 ![House 1](images/front/1.jpeg "House 1")
 
-### Likes
+### What we like:
 - 2 triangles
 - long window on right hand side triangle
 
-## Example 2
+## Example 3
 ![House 2](images/front/2.jpeg "House 2")
 
-### Likes
+### What we like:
 - Stonework feature 
 - long window
 
-## Example 3
+## Example 4
 ![House 3](images/front/3.jpeg "House 3")
 
-### Likes
+### What we like:
 - Shape of doorframe
 - glass panels around the door
 
-## Example 4
+## Example 5
 ![House 4](images/front/4.jpeg "House 4")
 
-### Likes
+### What we like:
 - Glass panels around the door
 - Stone feature
 - long window at front
-
-## Example 5
-![House 5](images/front/5.png "House 5")
-
-### Likes
-- Glass window above hall door
-- 
