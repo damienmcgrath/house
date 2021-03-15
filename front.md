@@ -38,3 +38,9 @@
 - Stone feature
 - long window at front
 
+## Example 5
+![House 5](images/front/5.png "House 5")
+
+### Likes
+- Glass window above hall door
+- 
